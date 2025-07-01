@@ -17,7 +17,7 @@ const Experience = () => {
 
   useEffect(() => {
     // Load experience data
-    fetch('/src/data/experience.json')
+    fetch('/data/experience.json')
       .then(response => response.json())
       .then(data => setExperienceData(data))
       .catch(error => console.error('Error loading experience:', error));

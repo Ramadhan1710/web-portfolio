@@ -19,7 +19,7 @@ const Skills = () => {
 
   useEffect(() => {
     // Load skills data
-    fetch('/src/data/skills.json')
+    fetch('/data/skills.json')
       .then(response => response.json())
       .then(data => setSkillsData(data))
       .catch(error => console.error('Error loading skills:', error));
