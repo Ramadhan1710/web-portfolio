@@ -1,4 +1,4 @@
-import { User, MapPin, Calendar, Coffee, Heart, Target } from "lucide-react";
+import { User, MapPin } from "lucide-react";
 
 const About = () => {
   // const stats = [

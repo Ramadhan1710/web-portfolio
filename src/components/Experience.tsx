@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Briefcase, GraduationCap, Calendar, MapPin, ChevronRight, Award } from 'lucide-react';
 
 interface ExperienceItem {

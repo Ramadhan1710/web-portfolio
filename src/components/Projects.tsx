@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { ExternalLink, Github, Eye, Star, Calendar, ChevronLeft, ChevronRight } from 'lucide-react';
 
 interface Project {

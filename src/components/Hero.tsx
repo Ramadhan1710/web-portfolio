@@ -1,4 +1,4 @@
-import { ChevronDown, Download, Github, Instagram, Linkedin, Twitter } from "lucide-react";
+import { ChevronDown, Download, Github, Instagram, Linkedin } from "lucide-react";
 import MyPhoto from "../assets/img/profile-me.jpeg";
 
 const Hero = () => {

@@ -1,13 +1,11 @@
 import React, { useState } from 'react';
 import { 
   Mail, 
-  Phone, 
   MapPin, 
   Send, 
   MessageCircle, 
   Linkedin, 
   Github, 
-  Twitter,
   Instagram,
   ExternalLink
 } from 'lucide-react';
