@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Airosentris Mobile",
+    "description": "Aplikasi mobile berbasis Flutter untuk menganalisis sentimen layanan pelanggan PDAM Surabaya. Saya mengembangkan sisi mobile secara penuh, termasuk antarmuka pengguna dan integrasi dengan REST API yang disediakan oleh tim backend.",
+    "image": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "technologies": ["Flutter", "Dart"],
+    "githubUrl": "",
+    "liveUrl": "",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Mijel App",
+    "description": "Aplikasi mobile untuk pengelolaan minyak jelantah, memungkinkan pengguna menukar minyak jelantah dengan poin yang dapat ditukar dengan sembako. Saya berkontribusi dalam pengembangan fitur mobile menggunakan Flutter sebagai bagian dari tim, aplikasi ini masih dalam tahap pengembangan.",
+    "image": "https://images.pexels.com/photos/3183153/pexels-photo-3183153.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "technologies": ["Flutter", "Dart"],
+    "githubUrl": "",
+    "liveUrl": "",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "MyPens Mobile",
+    "description": "Aplikasi mobile sistem informasi dosen dan karyawan Politeknik Elektronika Negeri Surabaya (PENS). Fitur meliputi pengelolaan data pegawai, jadwal, dan layanan kampus. Saya berkontribusi pada pengembangan antarmuka dan integrasi API menggunakan Flutter.",
+    "image": "https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "technologies": ["Flutter", "Dart"],
+    "githubUrl": "",
+    "liveUrl": "",
+    "featured": false
+  }
+]

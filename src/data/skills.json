@@ -1,0 +1,36 @@
+[
+  {
+    "category": "Frontend Development",
+    "skills": [
+      { "name": "React", "level": 85, "icon": "react" },
+      { "name": "TypeScript", "level": 80, "icon": "code" },
+      { "name": "Tailwind CSS", "level": 80, "icon": "palette" },
+      { "name": "Next.js", "level": 70, "icon": "zap" }
+    ]
+  },
+  {
+    "category": "Backend Development",
+    "skills": [
+      { "name": "laravel", "level": 80, "icon": "server" },
+      { "name": "PHP", "level": 75, "icon": "code" },
+      { "name": "Express.js", "level": 70, "icon": "server" },
+      { "name": "node.js", "level": 70, "icon": "globe" },
+      { "name": "MySQL", "level": 65, "icon": "database" },
+      { "name": "PostgreSQL", "level": 65, "icon": "hard-drive" }
+    ]
+  },
+  {
+    "category": "Mobile Development",
+    "skills": [
+      { "name": "Flutter", "level": 90, "icon": "smartphone" },
+      { "name": "Dart", "level": 90, "icon": "code" }
+    ]
+  },
+  {
+    "category": "Tools & Technologies",
+    "skills": [
+      { "name": "Git", "level": 90, "icon": "git-branch" },
+      { "name": "Figma", "level": 85, "icon": "figma" }
+    ]
+  }
+]

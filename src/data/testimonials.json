@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "position": "Project Manager",
+    "company": "Tech Solutions Inc.",
+    "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "content": "Bekerja dengan dia adalah pengalaman yang luar biasa. Kemampuan teknisnya sangat solid dan selalu deliver tepat waktu. Highly recommended!",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "position": "CEO",
+    "company": "Digital Agency XYZ",
+    "avatar": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "content": "Developer yang sangat talented dengan eye for detail yang luar biasa. Proyeknya selalu exceed expectations dan clientnya sangat puas.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Lisa Wang",
+    "position": "Product Owner",
+    "company": "Startup ABC",
+    "avatar": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "content": "Komunikasi yang excellent dan problem-solving skills yang top-notch. Selalu proaktif dalam memberikan solusi terbaik untuk setiap challenge.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "David Rodriguez",
+    "position": "CTO",
+    "company": "E-commerce Platform",
+    "avatar": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "content": "Code quality yang exceptional dan arsitektur yang clean. Sangat memahami modern web development practices dan best practices.",
+    "rating": 5
+  }
+]

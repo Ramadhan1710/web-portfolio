@@ -1,0 +1,26 @@
+[
+  {
+    "type": "experience",
+    "title": "Mobile Developer Intern",
+    "company": "PT Sinergi Dimensi Informatika",
+    "location": "Surabaya, Indonesia",
+    "period": "July 2024 - January 2025",
+    "description": "Magang sebagai mobile developer dengan fokus pada pengembangan aplikasi Flutter untuk Android. Menerapkan prinsip Clean Architecture untuk meningkatkan struktur kode dan maintainability.",
+    "achievements": [
+      "Mengembangkan aplikasi mobile dengan Flutter untuk Android",
+      "Menerapkan Clean Architecture untuk pemisahan logika dan UI",
+      "Berkoordinasi dengan tim untuk integrasi API dan testing"
+    ]
+  },
+  {
+    "type": "education",
+    "title": "D3 Teknik Informatika",
+    "company": "Politeknik Elektronika Negeri Surabaya (PENS)",
+    "location": "Surabaya, Indonesia",
+    "period": "2022 - 2025",
+    "description": "Mempelajari pengembangan perangkat lunak, algoritma, dan dasar jaringan komputer. Aktif di Unit Kegiatan Mahasiswa (UKM) Software Development sebagai pengurus bidang Media dan Informasi.",
+    "achievements": [
+      "Pengurus UKM Software Development (bidang Media & Informasi)"
+    ]
+  }
+]
